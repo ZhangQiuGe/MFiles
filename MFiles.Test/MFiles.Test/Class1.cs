@@ -16,5 +16,7 @@ namespace MFiles.Test
          public string Phone { get; set; }
 
         public string Amount { get; set; }
+
+        public int Count { get; set; }
     }
 }
