@@ -18,5 +18,7 @@ namespace MFiles.Test
         public string Amount { get; set; }
 
         public int Count { get; set; }
+
+        public string Test { get; set; }
     }
 }
